@@ -1,0 +1,3 @@
+export const KEY:string = "ae08c1d891de1568ea73db4978b8601b"
+export const BASE_URL:string = "https://api.themoviedb.org/3"
+export const HEADER_KEY:string = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZTA4YzFkODkxZGUxNTY4ZWE3M2RiNDk3OGI4NjAxYiIsInN1YiI6IjY2NWQ0ZTJkZGRhM2Q2Nzg4NmRkODBjNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.JbjZnSm65f1ZDJA4AxDEb1NjwDSOylG5P52sNXkc8aQ"
